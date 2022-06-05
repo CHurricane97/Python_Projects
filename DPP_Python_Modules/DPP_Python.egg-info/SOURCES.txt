@@ -1,0 +1,11 @@
+setup.py
+DPP_Python.egg-info/PKG-INFO
+DPP_Python.egg-info/SOURCES.txt
+DPP_Python.egg-info/dependency_links.txt
+DPP_Python.egg-info/requires.txt
+DPP_Python.egg-info/top_level.txt
+requestsHttp/ZapytaniaKrajow.py
+requestsHttp/ZapytaniaMiast.py
+requestsHttp/__init__.py
+strToJson/WyswietlOdpowiedz.py
+strToJson/__init__.py
